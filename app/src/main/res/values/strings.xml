@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Binary app</string>
+    <string name="chart_main_screen">CHART MAIN SCREEN</string>
+    <string name="quotes">Quotes</string>
+    <string name="see_more">See more</string>
+    <string name="golossary">Golossary</string>
+    <string name="currency_converter">Currency converter</string>
+    <string name="education_of_bo_trading">Education of BO trading</string>
+    <string name="about_us">About us</string>
+    <string name="back_button">BACK BUTTON</string>
+    <string name="currency">Currency</string>
+    <string name="icon_quote">icon quote</string>
+    <string name="preview_img">PREVIEW IMG</string>
+    <string name="logo_pair">logo pair</string>
+    <string name="_1">1</string>
+</resources>
